@@ -1,0 +1,34 @@
+body {
+  background-color: lightgrey;
+}
+
+div {
+  position: relative;
+}
+
+img {
+  position: absolute;
+  border-width: 1px;
+  border-style: dashed;
+  border-color: red;
+}
+
+.img-1 {
+  top: 50px;
+  left: 50px;
+}
+
+.img-2 {
+  top: 150px;
+  left: 150px;
+}
+
+.img-3 {
+  top: 250px;
+  left: 250px;
+}
+
+.img-4 {
+  top: 350px;
+  left: 350px;
+}

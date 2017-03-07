@@ -1,0 +1,10 @@
+ul li a:hover{
+  background-color: #555;
+}
+div{
+  background-color:black;
+  height:30px;
+}
+a{
+  color: white;
+}
